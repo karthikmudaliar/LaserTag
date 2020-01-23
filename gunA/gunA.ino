@@ -87,7 +87,7 @@ void loop() {
   lcd.print(ammo);
   lcd.setCursor(2,1);           //sets the cursor at row 0 column 0
   lcd.print("life ");
-  lcd.print(life);
+  lcd.print(life)
   
   
 
